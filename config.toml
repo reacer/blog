@@ -1,5 +1,5 @@
 title = "zenos blog"
-baseURL = "reacer.github.io/blog/"
+baseURL = "https://reacer.github.io/blog/"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -22,7 +22,7 @@ enableRobotsTXT = true
   twitter = ""
   instagram = ""
   youtube = ""
-  github = "github.com/reacer/"
+  github = "https://github.com/reacer/"
   gitlab = ""
   linkedin = ""
   mastodon = ""
