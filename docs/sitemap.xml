@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://reacer.github.io/blog/categories/</loc>
+    <lastmod>2020-02-15T14:34:29+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://reacer.github.io/blog/posts/2020-02-15-innodb/</loc>
     <lastmod>2020-02-15T14:34:29+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,7 +24,28 @@
   </url>
   
   <url>
+    <loc>https://reacer.github.io/blog/tags/</loc>
+    <lastmod>2020-02-15T14:34:29+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://reacer.github.io/blog/</loc>
+    <lastmod>2020-02-15T14:34:29+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reacer.github.io/blog/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2020-02-15T14:34:29+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reacer.github.io/blog/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2020-02-15T14:34:29+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -29,13 +57,7 @@
   </url>
   
   <url>
-    <loc>https://reacer.github.io/blog/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://reacer.github.io/blog/tags/</loc>
+    <loc>https://reacer.github.io/blog/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
